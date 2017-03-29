@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<applicalaction>
+	<dataSet>
+		<driver>com.mysql.jdbc.Driver</driver>
+		<url>127.0.0.1</url>
+		<port>3306</port>
+		<database>demo</database>
+		<userName>root</userName>
+		<password>root</password>
+	</dataSet>
+</applicalaction>

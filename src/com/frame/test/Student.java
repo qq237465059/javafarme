@@ -51,4 +51,15 @@ public class Student extends BaseEntity {
 	public void setAge(int age) {
 		this.age = age;
 	}
+
+	public Student(String name, String gener, int age) {
+		super();
+		this.name = name;
+		this.gener = gener;
+		this.age = age;
+	}
+
+	public Student() {
+		super();
+	}
 }

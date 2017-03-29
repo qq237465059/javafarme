@@ -15,7 +15,6 @@ import com.frame.model.EntityDefinition;
 import com.frame.model.ResponseMessage;
 import com.frame.util.jdbc.create.CreateFactory;
 import com.frame.util.jdbc.factory.Factory;
-import com.frame.util.json.JsonUtil;
 import com.frame.util.string.StringUtil;
 import com.google.gson.Gson;
 
